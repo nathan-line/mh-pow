@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=C:\Users\natha\Desktop\TR\mh-pow\Skrypt\target\release\build\typenum-2714cd4302ba3f11\out\consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=C:\Users\natha\Desktop\TR\mh-pow\Skrypt\target\release\build\typenum-2714cd4302ba3f11\out\op.rs

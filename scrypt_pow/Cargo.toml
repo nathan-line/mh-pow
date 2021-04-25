@@ -1,0 +1,11 @@
+[package]
+name = "scrypt_pow"
+version = "0.1.0"
+authors = ["nathan <nathan.line@mines-paristech.fr>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+blake2 = "0.9.1"
+text_io = "0.1.8"

@@ -1,0 +1,12 @@
+C:\Users\natha\Desktop\TR\mh-pow\Skrypt\target\debug\deps\password_hash-f992b1f750666473.rmeta: C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\lib.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\encoding.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\errors.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\ident.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\output.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\params.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\salt.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\value.rs
+
+C:\Users\natha\Desktop\TR\mh-pow\Skrypt\target\debug\deps\password_hash-f992b1f750666473.d: C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\lib.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\encoding.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\errors.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\ident.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\output.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\params.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\salt.rs C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\value.rs
+
+C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\lib.rs:
+C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\encoding.rs:
+C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\errors.rs:
+C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\ident.rs:
+C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\output.rs:
+C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\params.rs:
+C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\salt.rs:
+C:\Users\natha\.cargo\registry\src\github.com-1ecc6299db9ec823\password-hash-0.1.3\src\value.rs:
