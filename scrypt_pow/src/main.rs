@@ -5,7 +5,7 @@ use text_io::read;
 
 const K : usize = 64;
 const R : usize = 8;
-const N : usize = 2_i32.pow(15 as u32) as usize; //2^20 takes 1GB of RAM
+const N : usize = 2_i32.pow(18 as u32) as usize; //2^20 takes 1GB of RAM
 
 const D : usize = 8; // Difficulty of challenge
 
